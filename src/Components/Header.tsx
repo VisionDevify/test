@@ -11,8 +11,8 @@ function Header() {
             ml={6} 
             mr={6}
         >
-                <Image boxSize='90px' src="./../../images/brand-logo.svg" alt="brand logo" />
-            <Box>
+                <Image boxSize='90px' src="/brand-logo.svg" alt="brand logo" />
+            <Box>s
                 <Button pr={3} colorScheme='gray.600' fontSize='sm' variant='link'>
                     Log In
                 </Button>
